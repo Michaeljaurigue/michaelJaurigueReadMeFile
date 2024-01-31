@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [WTWR](https://github.com/Michaeljaurigue/se_project_react)
 
-- 🌱 I’m currently learning **JavaScript | React | Express | MongoDB | Node.js**
+- 🌱 Proficient in **JavaScript | React | Express | MongoDB | Node.js**
 
 - 👨‍💻 All of my projects are available at [Michaeljaurigue.com](Michaeljaurigue.com)
 
